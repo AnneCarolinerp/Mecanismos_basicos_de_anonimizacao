@@ -1,4 +1,5 @@
 Atividade prática
+
 Objetivo: Anonimizar o dataset sobre crédito (credit_v1.csv) usando
 operações básicas de anonimização.
 
