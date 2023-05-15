@@ -10,7 +10,6 @@ operações básicas de anonimização.
 5. Generalize o atributo Ocuppation. {Scientist, Teacher, Engineer,
 Developer}-&gt;Academic, {Lawyer, Doctor}-&gt;Service,
 {Media_manager, Journalist}-&gt;Media
-
   a. Qual é o Iloss do valor Academic?
 6. Generalize o atributo idade para os intervalos [20-29], [30-39]...
   a. Qual o Iloss do valor [20-29]?
